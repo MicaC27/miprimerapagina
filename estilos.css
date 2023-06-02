@@ -117,7 +117,9 @@ display: flex;
   }
 }
 
-
+.greeting {
+  text-align: center;
+  }
 
 
 /*h1 {
